@@ -1,0 +1,20 @@
+{
+    "name": "invertedx/route-traffic",
+    "description": "Advance route listing with user friendly interface.etc",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sarath Kumar",
+            "email": "sarathkumars677@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "invertedx\\routetraffic\\": "/src"
+        }
+    }
+
+}
