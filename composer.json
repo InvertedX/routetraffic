@@ -1,6 +1,6 @@
 {
     "name": "invertedx/route-traffic",
-    "description": "Advance route listing with user friendly interface.etc",
+    "description": "Laravel Route Listing plugin.helper package to display all the routes in the app",
     "license": "MIT",
     "authors": [
         {
