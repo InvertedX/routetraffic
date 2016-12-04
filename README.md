@@ -1,5 +1,6 @@
 ## Laravel Route Traffic
-Laravel Route Listing plugin.helper package to display and list all the routes in the app
+Laravel Route Listing plugin. developer friendly package to display and list all the routes in the app
+![alt text](https://github.com/InvertedX/routetraffic-laravel-route-lising/raw/master/screen/screen1.png "Route traffic screenshot") 
 ## Install steps
 #### Setp 1 - adding package as composer dependency
 add packge as composer dependency
