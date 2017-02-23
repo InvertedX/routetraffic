@@ -44,7 +44,8 @@
                 <div class="panel panel-default">
                     <div class="panel-heading">Routes</div>
                     <div class="panel-body">
-                        <table class="table table-responsive table-hover table-bordered ">
+                    <div class="table-responsive">
+                        <table class="table  table-hover table-bordered ">
                             <thead>
                             <tr>
                                 <th>HTTP Methods</th>
@@ -73,6 +74,7 @@
                             @endforeach
                             </tbody>
                         </table>
+                        </div>
                     </div>
                 </div>
             </div>
